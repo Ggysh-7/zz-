@@ -1,0 +1,141 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0; list-style:none; outline:none; border:0; background:none;}
+body{font-size:14px; font-family:"微软雅黑";}
+a:link,a:visited{color:#fff; text-decoration:none;}
+a:hover{text-decoration:none;}
+body{background:#CEFFB7;}
+#one{margin:0 auto;}
+#one a{
+	width:240px;
+	display:block;
+}
+#one #two{
+	width:500px;
+	margin-top:1px;
+}
+#one #two input{
+	width:380px;
+	height:30px;
+	border: solid  #7CD209;
+	position:relative;bottom:70px; left:550px;
+}
+#one #two .three{
+	width:38px;
+	height:36px;
+	background:#7CD209;
+	color:#FFF;
+	cursor:pointer;
+}
+#four{
+	width:980px; 
+	background:#57C665;
+}
+.five{
+	width:980px;  
+	height:35px;
+	line-height:35px;
+	margin:0 auto; 
+	text-align:center; 
+	font-size:16px;
+	
+}
+.five .in{background:#8DDC95;}
+.five li{float:left;}
+.five a{
+	display:inline-block; 
+	padding-left:2px;	
+}
+.five a:hover{background:#8DDC95;}
+.input2{margin-right:10px;padding-left:50px; text-align:center;}
+.div1{width:980px; height:260px; margin-top:10px; border:#57C665 2px solid; background:url(tupian/fengmian3.png) repeat;}
+.tu{padding-right:4px;padding-bottom:10px;}
+.style_bg{
+	width:908px;
+	height:330px;
+	padding:10px 36px 5px;
+	}
+.style{
+	width:892px;
+	height:314px;
+	padding:8px 10px 8px 6px;
+	}
+.style dl{
+	width:150px;
+	height:313px;
+	float:left;
+	margin-left:37px;
+	padding-right:2%;
+	}
+.style .third{width:150px;}
+.style dt,.style dd{float:left;}
+.style .down{
+	height:280px;
+	line-height:30px;
+	padding-top:3px;
+	margin-top:3px;
+	width:200px;
+	letter-spacing:2px;
+	font-size:15px;
+	text-align:left;
+	color:#5A5A5A;
+	display:block;
+	background:#EBF9D2;
+	border:1px solid  #57C665;
+
+	}
+.style .top{
+	height:32px;
+	line-height:32px;
+	width:200px;
+	letter-spacing:2px;
+	font-size:18px;
+	font-family:华文彩云;
+	text-align:center;
+	border:1px solid  #57C665;
+	}
+#content{
+	width:980px;
+	margin-top:10px;
+	border:2px solid #55CC28;
+	background:url(tupian/fengmian3.png) repeat;
+	
+	}
+.style a{
+	display:block;
+	color:#27820D;
+	}
+.style a:hover{color:#91DF93;}
+#footer{
+	width:100%;
+	color:#DA614B;
+	line-height:25px;
+	height:200px;
+	text-align:center;
+	padding-top:3px;
+	margin-top:30px;
+	}
+.div2{width:980px; height:360px; margin-top:10px; border:#57C665 2px solid; background:url(tupian/fengmian3.png) repeat;}
+.div3{border:#40AE15 1px solid; width:380px; height:300px; margin:5px 40px; }
+.div4{float:left;  width:1.5em;color:#2D6927; font-family:华文彩云; font-size:24px;}
+/*滚动2*/
+.imgbox{
+	width:900px;
+	white-space:nowrap;
+	overflow:hidden;
+	padding: 0  2 0 10;
+}
+.imgbox img{
+	
+	width:180px; 
+	height:240px; 
+	padding:10px;
+}
+.imgbox a{margin-right:20px;}
+
+
+
+
+
+
+

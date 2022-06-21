@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.body{background:url(tupian/beijing2.png) repeat;}
+.div1{border:#FFF 2px solid;width:980px; margin:0 auto;}
+.div2{width:980px;  height:800px;margin:0 auto;background:url(tupian/beijing.png) repeat-x ; }
+h1{font-family:华文彩云; color:#000; text-align:center;}
+.div3{border:#40AE15 10px solid; width:880px; height:300px; margin:5px 40px; }
+.a{width:450px; height:280px;border: #FFF 10px solid; folat:left; }
+.b{width:380px; height:280px;border: #FFF 8px solid; folat:right; background:#F4F7DF;}
+.div4{border:#40AE15 10px solid; width:880px; height:150px; margin:15px 40px;  font-size:16px;color:#31801A; line-height:20px;}
+.div5{border:#40AE15 10px solid; width:880px; height:200px; margin:5px 40px; }
+.c{width:450px; height:180px;border: #FFF 10px solid; folat:left;}
+.d{width:380px; height:180px;border: #FFF 5px solid; folat:right; background:#F4F7DF; font-size:16px;color:#31801A; line-height:20px;}

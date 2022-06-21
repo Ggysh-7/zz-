@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+.div1{width:750px;background:#9BDD9D no-repeat; float:left;}
+.div2{width:220px;background:#9BDD9D no-repeat; float:right; text-align:center;}
+.div3{width:750px;background:#DFF0D7 no-repeat; float:left; color:#5A5A5A;}
+.div4{width:220px;background:#DFF0D7 no-repeat; float:right;  }
+.a{float:left;}
+a{font-size:14px; color:#7CBB77;text-align:left; text-decoration:none;}
+.b{padding-left:50px;}
+
